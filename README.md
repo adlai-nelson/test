@@ -71,12 +71,4 @@ Below is a description of each ogh the images used in digitizing mangroves.
 |![image](https://github.com/user-attachments/assets/b095d101-0ae3-4334-9451-4512a104d75c) | False color composite using red, near infrared, and shortwave infrared bands. <br> Note that mangroves appear as red, other vegetation as orange, crop fields and built-up areas as cyan, and open water as deep blue.    | ![image](https://github.com/user-attachments/assets/769e7b8f-cd1b-441b-9c82-184605797dc2)    |
 | ![image](https://github.com/user-attachments/assets/29318205-d965-4ef4-ad7f-e0b861445d3e)         | Landcover layer from previous years to update. <br> Using the provided ‘aqua’ palette, mangroves are deep green, aquaculture is orange, water is light blue, and other is yellow.  | ![image](https://github.com/user-attachments/assets/ced519ed-9a42-4d34-bd4a-b07c9148f74e) | 
 
-| ![image](https://github.com/user-attachments/assets/3fd7206a-7b64-4605-8085-188ee5803222)     | Mask of Study area |  ![image](https://github.com/user-attachments/assets/a22d9554-a2aa-48ee-a014-2e61d5f0e1ba) |
-| ![image](https://github.com/user-attachments/assets/0f43b00b-0b62-47e7-9e7e-79833aa70565)     | Sentinel-1 [Synthetic Aperature Radar](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar) (SAR)              |       n/a       | 
-| NY and PA roads            | line                 |          n/a    | 
-| Eastern Hemlock Basal Area | raster image         | 250 m           |
-| Temperature                | raster images        | 2.5 arc minutes | 
-| Terrain Products           | raster images       | 90 meters       |               
-|  ![image](https://github.com/user-attachments/assets/8b49c643-3765-4533-b7e0-a2301a59aed7)       | raster images        | 2.5 arc minutes | 
-
  </details>
