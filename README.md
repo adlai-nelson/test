@@ -20,7 +20,7 @@
 ![image](https://github.com/user-attachments/assets/eef90db7-2e3f-410b-bb7e-83e96db19c37)
 
 
-3) Within each quad folder, there should be two folders: 'resources' and 'working'. Place each of the layers from sandy into the Resources folder.
+4) Within each quad folder, there should be two folders: 'resources' and 'working'. Place each of the layers from sandy into the Resources folder.
 
 ![image](https://github.com/user-attachments/assets/a58dcf4e-530b-40db-a027-fecb5107f85a)
 
